@@ -45,4 +45,4 @@ Interface of a sample application built with React + Vite.
 
 ---
 
-> "Learn today, innovate tomorrow."
+> "Cross one bridge at a time"
