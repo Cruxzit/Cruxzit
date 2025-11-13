@@ -5,18 +5,38 @@ I am a Software Development student at ISTEC Porto, currently learning to become
 
 ---
 
-## 💻 Technical Skills
 
-**Frontend:** HTML, CSS, JavaScript, React + Vite  
-**Backend:** Node.js (Express.js)  
-**Databases:** SQL (MySQL), NoSQL (MongoDB)  
-**Other Tools:** Tailwind CSS, Bootstrap  
+<div align="center">
+  <a href="https://github.com/Cruxzit">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Cruxzit&show_icons=true&theme=tokyonight"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cruxzit&layout=compact&langs_count=8&theme=tokyonight"/>
+  </a>
+  <br/>
+</div>
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+
+
+## 🚀 Tech Stack
+
+### 🖥️ Back-End
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+
+### 🎨 Front-End
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+### 💻  Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Eloquent](https://img.shields.io/badge/-Eloquent-FB503B?style=flat&logo=laravel&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ---
 
@@ -40,7 +60,7 @@ Interface of a sample application built with React + Vite.
 ## 🌐 Contact
 
 - [LinkedIn](https://www.linkedin.com/in/hugo-oliveira-4b985a331)  
-- [Portfolio](#) *(in progress)*  
+- [Portfolio](https://hugo-oliveira.me/) 
 - Email: hugocruxzit@gmail.com
 
 ---
